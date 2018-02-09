@@ -1,0 +1,14 @@
+{
+  "name": "typesmith-read-markdown",
+  "version": "1.0.0",
+  "description": "typesmith plugin that reads one or more Markdown files into the database as `page` type records.",
+  "main": "lib/typesmith-read-markdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robb Surridge",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.2"
+  }
+}
