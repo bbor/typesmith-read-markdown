@@ -9,6 +9,7 @@
   "author": "Robb Surridge",
   "license": "MIT",
   "dependencies": {
-    "glob": "^7.1.2"
+    "glob": "^7.1.2",
+    "merge-options": "^1.0.0"
   }
 }
